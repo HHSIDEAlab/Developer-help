@@ -1,0 +1,6 @@
+{
+  "name": "Beneficiary-help",
+  "tagline": "Beneficiary Help",
+  "body": "\r\n\r\nThis service allows Medicare beneficiaries to import information in MyMedicare.gov into an application of your choice. If you are a Medicare beneficiary you need an account on https://MyMedicare.gov to use this service.\r\n\r\nWe take security seriously.  You must choose to link the Blue Button API to \r\nyour MyMedicare account. Once you have made the connection you can then choose \r\nto connect any of a growing library of personal health applications which can help \r\nyou manage your health more easily\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
